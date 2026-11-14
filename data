@@ -1,0 +1,29 @@
+#python
+#git
+#pip
+#github account
+
+
+
+vs code -----> github.com
+git init
+git add .
+git config --global user.name "katariaprince"
+git config --global user.email "katariaprince15@gmail.com"
+git commit -m "First Program"
+git remote add origin https://github.com/katariaprince/ml_webinar.git
+git branch -M main
+git push -u origin main
+
+
+
+
+Rules:
+1. Join live classes
+2. Push each line of code to github
+3. Linkedin account
+
+
+
+What is your work:
+To understand problem ---> Create solutions
